@@ -1,9 +1,11 @@
 # Iteration 1 
 
-For Iteration 1 we have completed the following deliverables:
+For Iteration 1 we have completed the 
+following deliverables:
 
+## Deliverables:
 - Stakeholder Register 
-- Persona 1 ![Image of Persona 1](images/persona-1.jpg) 
+- Persona 1 ![Image of Persona 1](images/persona_1.jpeg)
 
 - Persona 2 ![Image of Persona 2](images/persona_2.jpeg)
 
@@ -11,13 +13,10 @@ For Iteration 1 we have completed the following deliverables:
 
 - 4 Group Meeting Reports
 
+- Persona Reviews
 
+## Persona Reviews
 
-
-
-
-
-## This is a second level heading
 
 There is a **bold** word in this sentence
 
