@@ -80,7 +80,7 @@ We discussed and started our individual progress report. Also discussed our READ
 
 **Week #4**<br>
 
-For week #4 we had the majority of our work done, just uploading final information/documents and making minor changes to documents I worked on in our repository. Added progress report to READme file, checklist minor syntax formatting.
+For week #4 we had the majority of our work done, just uploading final information/documents and making minor changes to documents I worked on in our repository (namely; persona review). Added progress report to READme file, checklist, and minor syntax formatting.
 
 **Feedback**<br>
 
