@@ -115,3 +115,5 @@ Resource Requirement List: used to plan the resources needed to develop our e-co
 
 Detailed Checklist: this is a detailed checklist with all dates and deadlines recorded, in reference to our weekly meeting agendas.
 ![Checklist](images/checklist.png)
+
+# Iteration 3
