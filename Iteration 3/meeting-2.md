@@ -41,9 +41,9 @@ Push each template file and merge, one at a time and check integration (Agenda 3
 
 |Action Items|Person Responsible|Deadline|
 |-|-|-|
-|Push Home.html and merge|person|Wednesday 6 May|
-|Push Orders.html and merge|person|Wednesday 6 May|
-|Push Products.html and merge|person|Wednesday 6 May|
+|Push index.html (Member 1 & 3) and merge|Abby|Thursday 7 May|
+|Push orders.html (Member 2) and merge|Sara|Thursday 7 May|
+|Push about.html, contact.html (Member 4) and merge|Aiden|Thursday 7 May|
 
 ---
 
@@ -60,10 +60,7 @@ Each merge has a unique code and is tested - that it was correctly pushed and me
 
 |Action Items|Person Responsible|Deadline|
 |-|-|-|
-|Check integration and test, note results|All Members|Wednesday 6 May|
-|Test Home.html|person|date|
-|Test Orders.html|person|date|
-|Test Products.html|person|date|
+|Check integration and test, note results|All Members|Tuesday 12 May|
 
 
 ---
