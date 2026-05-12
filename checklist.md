@@ -101,12 +101,12 @@
 
     - [x] meeting minutes #1 - 29/04/26
     - [x] meeting minutes #2 - 06/05/26
-    - [ ] meeting minutes #3 - 13/05/26
+    - [x] meeting minutes #3 - 13/05/26
     - [ ] meeting minutes #4 - 20/05/26
     *update kanban and gantt chart*
 <br> 
 
-- [ ] risk register (template available) 
+- [ ] risk register (template available) - 13/05/26 (deadline: 19/05/26 - ref: meeting #3)
     *identify and manage actual risks during project progress*
     - [ ] include: description of risk, likelihood, impact, severity, clear resolve plan (mitigation response) and owner (who raised risk)
 <br>
@@ -118,8 +118,9 @@
     - [x] member 4 - products.html - aiden - 06/05/26
 <br>
 
-- [ ] check integration and publish - 13/05/26
+- [ ] check integration and publish - 13/05/26 published (ref: meeting #2)
     *each page has unique code, each group member needs to merge and test complete format*
+    - [ ] issue - move from /root to /docs
 <br>
 
 - [ ] progress report 
