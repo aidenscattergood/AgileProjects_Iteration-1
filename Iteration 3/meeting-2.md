@@ -23,7 +23,7 @@ Location: EIT Taradale Campus, A012**
 
 **Agenda items:**
 1.	Push & Merge Website Files
-2.  Check Integration & User Testing
+2.  Check Integration - Publish
 
 ---
 
@@ -47,20 +47,18 @@ Push each template file and merge, one at a time and check integration (Agenda 3
 
 ---
 
-**Agenda Item 2:** Check Integration & User Testing
+**Agenda Item 2:** Check Integration - Publish
 **Presenter:** Sara
 
 **Discussion:**
-- Locate and check unique code
-- Test they are in correct/complete format
-- Note any issues in User Acceptance Test Results (template)
+- Publishing website to see pushed files
 
 **Conclusions:**
-Each merge has a unique code and is tested - that it was correctly pushed and merged with the correct format (txt/html). Test issues/results noted in User Acceptance Test Results.
+Each person has merged files correctly - check website format (html). Note issues/results for User Acceptance Test Results.
 
 |Action Items|Person Responsible|Deadline|
 |-|-|-|
-|Check integration and test, note results|All Members|Tuesday 12 May|
+|Publish website, note results|All Members|Tuesday 12 May|
 
 
 ---
