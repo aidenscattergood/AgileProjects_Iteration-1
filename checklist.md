@@ -94,4 +94,35 @@
 
 ## Iteration 3
 
->start/end date: 29/04/26
+>start/end date: 29/04/26 - 27/05/26
+
+- [ ] weekly meeting reports (4 reports min.)
+    *meeting agenda, date, actions, attendees, info about next meeting*
+
+    - [x] meeting minutes #1 - 29/04/26
+    - [x] meeting minutes #2 - 06/05/26
+    - [ ] meeting minutes #3 - 13/05/26
+    - [ ] meeting minutes #4 - 20/05/26
+    *update kanban and gantt chart*
+<br> 
+
+- [ ] risk register (template available) 
+    *identify and manage actual risks during project progress*
+    - [ ] include: description of risk, likelihood, impact, severity, clear resolve plan (mitigation response) and owner (who raised risk)
+<br>
+
+- [x] push website files to github - 06/05/26 (deadline: 06/05/26)
+    *push and merge to repo - make an edit*
+    - [x] member 1 & 3 - html/css/js/image and index.html - abby - 06/05/26
+    - [x] member 2 - orders.html - sara - 06/05/26
+    - [x] member 4 - products.html - aiden - 06/05/26
+<br>
+
+- [ ] check integration and publish - 13/05/26
+    *each page has unique code, each group member needs to merge and test complete format*
+<br>
+
+- [ ] progress report 
+<br>
+
+- [ ] iteration 3 complete - 27/05/26
