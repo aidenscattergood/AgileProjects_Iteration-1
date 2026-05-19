@@ -103,12 +103,12 @@
     - [x] meeting minutes #2 - 06/05/26
     - [x] meeting minutes #3 - 13/05/26
     - [ ] meeting minutes #4 - 20/05/26
-    *update kanban and gantt chart*
+    *update kanban and gantt chart - note schedule change: due 27/05/26*
 <br> 
 
-- [ ] risk register (template available) - 13/05/26 (deadline: 19/05/26 - ref: meeting #3)
+- [x] risk register (template available) - 13/05/26 (deadline: 19/05/26 - ref: meeting #3)
     *identify and manage actual risks during project progress*
-    - [ ] include: description of risk, likelihood, impact, severity, clear resolve plan (mitigation response) and owner (who raised risk)
+    - [x] include: description of risk, likelihood, impact, severity, clear resolve plan (mitigation response) and owner (who raised risk)
 <br>
 
 - [x] push website files to github - 06/05/26 (deadline: 06/05/26)
@@ -123,7 +123,7 @@
     - [ ] issue - move from /root to /docs
 <br>
 
-- [ ] progress report 
+- [ ] progress report *CHANGED FROM 20/05/26 to 27/05/26
 <br>
 
-- [ ] iteration 3 complete - 27/05/26
+- [ ] iteration 3 complete - *CHANGED FROM 20/05/26 to 27/05/26
