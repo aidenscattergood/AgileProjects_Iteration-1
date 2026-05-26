@@ -102,7 +102,7 @@
     - [x] meeting minutes #1 - 29/04/26
     - [x] meeting minutes #2 - 06/05/26
     - [x] meeting minutes #3 - 13/05/26
-    - [ ] meeting minutes #4 - 20/05/26
+    - [x] meeting minutes #4 - 20/05/26
     *update kanban and gantt chart - note schedule change: due 27/05/26*
 <br> 
 
@@ -118,12 +118,14 @@
     - [x] member 4 - products.html - aiden - 06/05/26
 <br>
 
-- [ ] check integration and publish - 13/05/26 published (ref: meeting #2)
+- [x] check integration and publish - 13/05/26 published (ref: meeting #2)
     *each page has unique code, each group member needs to merge and test complete format*
-    - [ ] issue - move from /root to /docs
+    - [x] issue - move from /root to /docs
 <br>
 
-- [ ] progress report *CHANGED FROM 20/05/26 to 27/05/26
+- [x] progress report *CHANGED FROM 20/05/26 to 27/05/26
+- [x] update readme with iteration 3
 <br>
 
 - [ ] iteration 3 complete - *CHANGED FROM 20/05/26 to 27/05/26
+- [ ] prepare documents for handover - 27/05/26 (due end of week 13)
