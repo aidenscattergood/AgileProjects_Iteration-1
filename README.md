@@ -116,4 +116,32 @@ Resource Requirement List: used to plan the resources needed to develop our e-co
 Detailed Checklist: this is a detailed checklist with all dates and deadlines recorded, in reference to our weekly meeting agendas.
 ![Checklist](images/checklist.png)
 
+---
+
 # Iteration 3
+
+For Iteration 3 we have completed the following deliverables:
+
+#### Checklist
+
+- [x] Weekly Meeting Reports (4 in total)
+- [x] Risk Register documentation
+> identify and manage risks of project progress, inc. description, likelihood, severity & resolve plan
+- [x] Each group member push files (home.html, orders.html, products.html) to github, then merge
+- [x] Check integration and publish website
+> each page has unique code, all members merge files on github & test whether they are in a complete format
+- [x] Complete User Acceptance Test Results - to make sure project management implementation is successful
+> carry out manual user testing
+- [x] Individual Progress Reports
+
+During this iteration we continued to update the scheduling/planning tools we created in Iteration 2 to track the projects progress. 
+
+Conducted in assessing possible risks that could interfere with our e-commerce website and documented these risks using the Risk Register documentation. This is important to our project to prevent and react proactively to resolve the possible issues that could arise and rank these risks from the probability of them happening and the severity it could cause to the projects success rate.
+![Risk Register](/images/riskregister.png)
+
+Once we had access to the e-commerce website files, we pushed and merges these files and then ran through multiple tests after publishing the website to test if the website was responding the way we expected it to. These tests were documented in our User Acceptance Test Results / Test Matrix documentation, detailing the outcomes to our tests and if they failed or passed.
+![Test Matrix](/images/testmatrix.png)
+
+Our E-commerce Project Website:
+![E-commerce Website](/images/website.png)
+
