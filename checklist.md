@@ -127,5 +127,5 @@
 - [x] update readme with iteration 3
 <br>
 
-- [ ] iteration 3 complete - *CHANGED FROM 20/05/26 to 27/05/26
-- [ ] prepare documents for handover - 27/05/26 (due end of week 13)
+- [x] iteration 3 complete - *CHANGED FROM 20/05/26 to 27/05/26
+- [x] prepare documents for handover - 27/05/26 (due end of week 13)
