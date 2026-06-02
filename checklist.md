@@ -96,7 +96,7 @@
 
 >start/end date: 29/04/26 - 27/05/26
 
-- [ ] weekly meeting reports (4 reports min.)
+- [x] weekly meeting reports (4 reports min.)
     *meeting agenda, date, actions, attendees, info about next meeting*
 
     - [x] meeting minutes #1 - 29/04/26
